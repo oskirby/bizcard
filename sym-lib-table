@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name bizcard)(type Legacy)(uri ${KIPRJMOD}/bizcard.lib)(options "")(descr ""))
+)
